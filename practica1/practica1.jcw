@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>practica1</label>
+		<id>91</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>practica1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>practica1.jcp</path>
+		</project>
+	</projects>
+</workspace>
